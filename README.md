@@ -9,7 +9,7 @@ So we are going from this:
 [Voxel Interaction Demo](only_voxels.gif)
 
 To this:
-![Terrain Deformation Demo](terrain_deform_test.gif)
+[Terrain Deformation Demo](terrain_deform_test.gif)
 
 
 ## Features
