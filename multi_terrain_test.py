@@ -6,7 +6,7 @@ from matplotlib.animation import FuncAnimation
 import matplotlib as mpl
 
 # HYPERPARAMETERS
-LINEAR_VEL = 2.0  # Linear velocity of the ball
+LINEAR_VEL = 2.5  # Linear velocity of the ball
 
 # For better interactive performance
 mpl.use('TkAgg')  # Use TkAgg backend for interactive rotation
@@ -574,6 +574,8 @@ sim = VoxelTerrainSimulation(
 # Set up the figure and 3D axis for animation
 fig = plt.figure(figsize=(14, 10))
 ax = fig.add_subplot(111, projection='3d')
+
+
 
 # Set up a good initial view
 ax.view_init(elev=30, azim=45)
