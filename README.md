@@ -1,12 +1,5 @@
 # rose-pcl-deform
 
-Here's a simple and clear `README.md` for your project:
-
----
-
-````markdown
-# Voxel Terrain Simulation
-
 This project simulates a rigid ball rolling across a deformable voxel terrain with varying ground stiffness. It visually demonstrates how terrain deformation and ball motion are affected by the underlying stiffness zones, using 3D animation with `matplotlib`.
 
 ## Features
