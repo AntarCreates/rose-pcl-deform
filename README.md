@@ -34,7 +34,7 @@ pip install -r requirements.txt
 Run the simulation script:
 
 ```bash
-python multi_terrain_test.py
+python app.py
 ```
 
 This will open an interactive 3D animation window where you can:
