@@ -45,7 +45,7 @@ This will open an interactive 3D animation window where you can:
 
 ## File Overview
 
-* `multi_terrain_test.py`: Main simulation and visualization script
+* `app.py`: Main simulation and visualization script
 * `point_test.py`: Uses points instead of surface
 * `requirements.txt`: List of required Python packages
 
