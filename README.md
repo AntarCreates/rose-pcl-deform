@@ -6,9 +6,11 @@ This project simulates a rigid ball dragging across a deformable voxel terrain w
 Here I am reimagining each particle as a point in a point cloud and voxelizing the cloud to lessen computational burden. Then each voxel is now the tip of a spring that abides by the F= - Kx priciple to simulation stiffness-wise deformation. Only the voxels is surface contact or about to contact are activated and physics and computed for those voxels only.
 
 So we are going from this:
+
 ![Voxel Interaction Demo](only_voxels.gif)
 
 To this:
+
 ![Terrain Deformation Demo](terrain_deform_test.gif)
 
 
